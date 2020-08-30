@@ -11,4 +11,6 @@
 <img src="overview.png" style="border-radius:8px">
 </p>
 
-[check it out here]:
+<h3>Access GitHub user data with their user Id</h3>
+
+[Check it out here]: https://sreeramthatavarthi.github.io/githubUsers/
